@@ -1,13 +1,8 @@
 # UIVERSIDAD NACIONAL ARTURO JAURETCHE
-
 # TALLER DE INGENIERÍA
-
 ## COMISIÓN N° 22
-
 ## GRUPO N° 4
-
 ## INTEGRANTES:
-
 - Domínguez M.
 - Azofra J.
 - Génova C.
@@ -15,8 +10,7 @@
 - Peralta J.
 - González L.
 - Trejo F.
-
-## CARPETA
+# CARPETA
 ## Informes: 
 - [Metodos de trabajo](Informes/Metodos-de-trabajo.pdf)
 - [Mediciones de entorno](Informes/Mediciones-de-entorno.pdf)
