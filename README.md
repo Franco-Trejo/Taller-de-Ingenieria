@@ -18,8 +18,8 @@
 
 ## CARPETA
 ## Informes: 
-- [Metodos de trabajo](informe nro1 metodos de trabajo.pdf)
-- Mediciones de entorno
-- Medición de ángulos y aplicaciones
-- Metrología dimensional
-- Electricidad y electrónica
+- [Metodos de trabajo](Metodos-de-trabajo.pdf)
+- [Mediciones de entorno](Mediciones-de-entorno.pdf)
+- [Medición de ángulos y aplicaciones](Meidición-de-ángulos-y-aplicaciones.pdf)
+- [Metrología dimensional](Metrología-dimensional.pdf)
+- [Electricidad y electrónica](Electricidad-y-electrónica.pdf)
