@@ -18,8 +18,8 @@
 
 ## CARPETA
 ## Informes: 
-- [Metodos de trabajo](Metodos-de-trabajo.pdf)
-- [Mediciones de entorno](Mediciones-de-entorno.pdf)
-- [Medición de ángulos y aplicaciones](Meidición-de-ángulos-y-aplicaciones.pdf)
-- [Metrología dimensional](Metrología-dimensional.pdf)
-- [Electricidad y electrónica](Electricidad-y-electrónica.pdf)
+- [Metodos de trabajo](Informes/Metodos-de-trabajo.pdf)
+- [Mediciones de entorno](Informes/Mediciones-de-entorno.pdf)
+- [Medición de ángulos y aplicaciones](Informes/Meidición-de-ángulos-y-aplicaciones.pdf)
+- [Metrología dimensional](Informes/Metrología-dimensional.pdf)
+- [Electricidad y electrónica](Informes/Electricidad-y-electrónica.pdf)
