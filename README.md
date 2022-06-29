@@ -18,7 +18,7 @@
 
 ## CARPETA
 ## Informes: 
-[Metodos de trabajo]
+[Metodos de trabajo](Metrodologia.pdf)
 - Mediciones de entorno
 - Medición de ángulos y aplicaciones
 - Metrología dimensional
