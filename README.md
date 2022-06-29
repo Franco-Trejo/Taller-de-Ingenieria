@@ -1,8 +1,8 @@
 # UIVERSIDAD NACIONAL ARTURO JAURETCHE
 # TALLER DE INGENIERÍA
-## COMISIÓN N° 22
-## GRUPO N° 4
-## INTEGRANTES:
+## Comisión N° 22
+## Grupo N° 4
+## Integrantes:
 - Domínguez M.
 - Azofra J.
 - Génova C.
