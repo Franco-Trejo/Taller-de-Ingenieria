@@ -2,11 +2,11 @@
 
 # TALLER DE INGENIERÍA
 
-# COMISIÓN N° 22
+## COMISIÓN N° 22
 
-# GRUPO N° 4
+## GRUPO N° 4
 
-# INTEGRANTES:
+## INTEGRANTES:
 
 - Domínguez M.
 - Azofra J.
@@ -16,8 +16,8 @@
 - González L.
 - Trejo F.
 
-# CARPETA
-# Informes: 
+## CARPETA
+## Informes: 
 [Metodos de trabajo](informe nro1 metodos de trabajo.pdf)
 - Mediciones de entorno
 - Medición de ángulos y aplicaciones
