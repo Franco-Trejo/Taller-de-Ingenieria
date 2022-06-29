@@ -6,7 +6,7 @@
 
 # GRUPO N° 4
 
-# Integrantes:
+# INTEGRANTES:
 
 - Domínguez M.
 - Azofra J.
@@ -16,4 +16,6 @@
 - González L.
 - Trejo F.
 
-# CARPETA: 
+# CARPETA
+# Informes: 
+Metodos de trabajo
