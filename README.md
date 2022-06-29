@@ -23,4 +23,4 @@
 - [Medición de ángulos y aplicaciones](Informes/Meidición-de-ángulos-y-aplicaciones.pdf)
 - [Metrología dimensional](Informes/Metrología-dimensional.pdf)
 - [Electricidad y electrónica](Informes/Electricidad-y-electrónica.pdf)
-- [Trabajo Práctico de Trigonometría](TP-Trigonometría.pdf)
+- [Trabajo Práctico de Trigonometría](TP-Trigonometría)
