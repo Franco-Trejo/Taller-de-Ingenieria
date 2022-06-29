@@ -18,7 +18,7 @@
 
 # CARPETA
 # Informes: 
-[a link](informe nro1 metodos de trabajo.pdf)- Metodos de trabajo
+[- Metodos de trabajo](informe nro1 metodos de trabajo.pdf)
 - Mediciones de entorno
 - Medición de ángulos y aplicaciones
 - Metrología dimensional
