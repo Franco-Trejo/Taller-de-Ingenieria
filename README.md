@@ -6,10 +6,10 @@
 
 # Integrantes:
 
-Domínguez M.
-Azofra J.
-Génova C.
-Rendon N.
-Peralta J.
-González L.
-Trejo F.
+- Domínguez M.
+- Azofra J.
+- Génova C.
+- Rendon N.
+- Peralta J.
+- González L.
+- Trejo F.
