@@ -19,3 +19,7 @@
 # CARPETA
 # Informes: 
 Metodos de trabajo
+Mediciones de entorno
+Medición de ángulos y aplicaciones
+Metrología dimensional
+Electricidad y electrónica
