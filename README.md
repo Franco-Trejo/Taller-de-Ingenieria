@@ -15,7 +15,7 @@
 - [Metodos de trabajo](Informes/Metodos-de-trabajo.pdf)
 - [Mediciones de entorno](Informes/Mediciones-de-entorno.pdf)
 - [Medición de ángulos y aplicaciones](Informes/Meidición-de-ángulos-y-aplicaciones.pdf)
-- [Metrología dimensional](Informes/Metrología-dimensional.pdf)
+- [Metrología dimensional](Informes/Metrologia-dimensional.pdf)
 - [Electricidad y electrónica](Informes/Electricidad-y-electrónica.pdf)
 - [Trabajo Práctico de Trigonometría](Trabajo-Práctico-de-Trigonometría.pdf)
 - [Resumen de los videos de las Ingenierías](Resumen-videos-Ingenierías.pdf)
