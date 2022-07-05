@@ -18,3 +18,4 @@
 - [Metrología dimensional](Informes/Metrología-dimensional.pdf)
 - [Electricidad y electrónica](Informes/Electricidad-y-electrónica.pdf)
 - [Trabajo Práctico de Trigonometría](Trabajo-Práctico-de-Trigonometría.pdf)
+- [Resumen videos de las Ingenierías](Resumen-videos-ingenierías.pdf)
