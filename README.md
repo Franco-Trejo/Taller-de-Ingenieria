@@ -22,7 +22,7 @@
 - [Humedad y temperatura](Informes/Humedad-y-temperatura.pdf)
 - [Ambiente de trabajo](Informes/Ambiente-de-trabajo.pdf)
 - [Informe del proyecto](Proyecto-Informe.pdf)
-## 
+##
 - [Cómputo y presupuesto del proyecto](Cómputo-y-presupuesto.xlsx)
 - [Trabajo demanda de ingenieros](Demanda-de-ingenieros.pdf)
 - [Resumen de los videos de Ingenierías](Resumen-videos-Ingenierías.pdf)
