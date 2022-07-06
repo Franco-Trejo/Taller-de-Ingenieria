@@ -14,7 +14,7 @@
 ## Informes: 
 - [Metodos de trabajo](Informes/Metodos-de-trabajo.pdf)
 - [Mediciones de entorno](Informes/Mediciones-de-entorno.pdf)
-- [Medición de ángulos y aplicaciones](Informes/Meidición-de-ángulos-y-aplicaciones.pdf)
+- [Medición de ángulos y aplicaciones](Informes/Medición-de-ángulos-y-aplicaciones.pdf)
 - [Metrología dimensional](Informes/Metrologia-dimensional.pdf)
 - [Electricidad y electrónica](Informes/Electricidad-y-electrónica.pdf)
 - [Humedad y temperatura](Informes/Humedad-y-temperatura.pdf)
