@@ -19,3 +19,12 @@
 - [Electricidad y electrónica](Informes/Electricidad-y-electrónica.pdf)
 - [Trabajo Práctico de Trigonometría](Trabajo-Práctico-de-Trigonometría.pdf)
 - [Resumen de los videos de las Ingenierías](Resumen-videos-Ingenierías.pdf)
+- [Humedad y temperatura](Informes/Humedad-y-temperatura.pdf)
+- [Ambiente de trabajo](Informes/Ambiente-de-trabajo.pdf)
+- [Informe del proyecto](Proyecto-Informe.pdf)
+## 
+- [Cómputo y presupuesto del proyecto](Cómputo-y-presupuesto.xlsx)
+- [Trabajo demanda de ingenieros](Demanda-de-ingenieros.pdf)
+- [Resumen de los videos de Ingenierías](Resumen-videos-Ingenierías.pdf)
+- [Trabajo Práctico de Trigonometría](Trabajo-Práctico-de-Trigonometría.pdf)
+- [Autoevaluación del trabajo grupal](Autoevaluación-del-trabajo-grupal.pdf)
