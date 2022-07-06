@@ -19,7 +19,7 @@
 - [Electricidad y electrónica](Informes/Electricidad-y-electrónica.pdf)
 - [Humedad y temperatura](Informes/Humedad-y-temperatura.pdf)
 - [Ambiente de trabajo](Informes/Ambiente-de-trabajo.pdf)
-- [Informe del proyecto](Proyecto-Informe.pdf)
+- [Informe del proyecto](Informes/Proyecto-Informe.pdf)
 #
 - [Cómputo y presupuesto del proyecto](Cómputo-y-presupuesto.xlsx)
 - [Trabajo demanda de ingenieros](Demanda-de-ingenieros.pdf)
